@@ -1,0 +1,8 @@
+
+api key:
+
+sk8hBlPb2PqaecIkwbR1bIlBs3c4PmM99eAM9VNsgSkE9KJSGl0eoAzwVVEJJ3dMLnfll75aREqbI5dU7D1wpZ8CiTWsp1rDHNGNQ7eE88GUSmcYiLnOBC6xJjiIEeds2Qf385SPEYDIbQblYY1L6o6cVPf35a1wI7VByJ7kMwkkhYBgLVuU
+
+
+stackbit-deploy-webhook
+https://api.stackbit.com/project/60d103fc8e04a200175754a4/webhook/sanity/
